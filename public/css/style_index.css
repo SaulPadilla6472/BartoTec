@@ -1,0 +1,64 @@
+
+.navbar {
+  margin-bottom: 20px;
+  background:rgba(0,0,0,0.3);
+
+}
+
+.navbar-nav .nav-link.active {
+  font-weight: bold;
+  color:white;
+
+
+}
+
+h2 {
+  color: white;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+
+p {
+  color: white;
+  font-size: 16px;
+}
+
+.ColumnaPrincipal-section {
+  
+  background:rgba(0,0,0,0.3);
+  padding: 20px;
+  margin-bottom: 20px;
+  text-align: left;
+
+}
+
+
+.ColumnaIzquierda-section {
+  
+  text-align: center;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background:rgba(0,0,0,0.3);
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+
+.informacion-section {
+  background-color: #f8f9fa;
+  padding: 20px;
+  margin-bottom: 20px;
+  background:rgba(0,0,0,0.5);
+}
+
+
+.experiencia-section, .educacion-section, .habilidades-section {
+ 
+  padding: 20px;
+  margin-bottom: 20px;
+  background:rgba(0,0,0,0.3);
+}
+
+body {
+  background-color: #E7E5DF;
+}
